@@ -4,7 +4,7 @@
 
 ## 환경설정
 * OS : 맥OS
-* Tool : STS4 
+* Tool : IntelliJ
   - Lib
 * RDBMS : Orcle
 
